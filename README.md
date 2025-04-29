@@ -95,9 +95,6 @@ Rename `.env.local.template` ->  `.env.local`
     <div style="text-align: center;">
       A template by,
       <br>
-      <picture>
-        <img alt="FUNKYTON logo" src="https://res-5.cloudinary.com/hczpmiapo/image/upload/q_auto/v1/ghost-blog-images/funkyton-logo.png" width=200>
-      </picture>
     </div>
   </a>
 </p>
